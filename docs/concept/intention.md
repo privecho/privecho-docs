@@ -1,0 +1,1 @@
+The development of technological transformation and the data economy has brought about an urgent need to strengthen privacy protection and computational transparency. The sources of this demand include finance, healthcare, supply chains, and other fields, all of which require a high level of privacy and data integrity.

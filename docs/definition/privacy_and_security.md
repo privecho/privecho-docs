@@ -1,0 +1,4 @@
+The inherent characteristic of blockchain is high transparency, which enhances trust but also significantly increases the risk of user privacy leakage. Common privacy protection mechanisms are insufficient to fully address this issue:
+
+- Conflict between transparency and privacy: Most transaction records on public chains are publicly visible, making users' transaction behaviors potentially traceable, leading to privacy exposure.
+- Limitations of existing solutions: For example, zero-knowledge proofs can verify information without revealing actual data, but challenges still exist in terms of computational complexity and scalability.
