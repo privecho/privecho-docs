@@ -1,5 +1,5 @@
 * Introduction
-    * [What is PrivEcho?](docs/introduction/what-is-privecho)
+    * [What is PrivEcho?](docs/introduction/what-is-privecho.md)
 * Definition
     * [Privacy and Security](docs/definition/privacy_and_security.md)
     * [Verifiable Computation](docs/definition/verifiable_computation.md)
