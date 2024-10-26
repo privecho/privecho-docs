@@ -1,4 +1,4 @@
-![architecture.png](../../images/architecture.png)
+![Architecture](../../images/architecture.png)
 
 Process:
 - The demand side pays the fee
