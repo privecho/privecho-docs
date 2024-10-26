@@ -10,5 +10,4 @@
     * [Computing Power](docs/concept/computing_power.md)
     * [Decentralized Blockchain](docs/concept/decentralized_blockchain.md)
     * [DA](docs/concept/da.md)
-* Architecture
-    * [Architecture](docs/architecture/architecture.md)
+* [Architecture](docs/architecture/architecture.md)
